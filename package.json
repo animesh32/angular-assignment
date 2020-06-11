@@ -24,7 +24,7 @@
     "@ng-idle/core": "^8.0.0-beta.4",
     "@ng-idle/keepalive": "^8.0.0-beta.4",
     "angular2-moment": "^1.9.0",
-    "bootstrap": "4.1.1",
+    "bootstrap": "4.3.1",
     "eva-icons": "^1.1.2",
     "ngx-bootstrap": "^5.6.1",
     "rxjs": "~6.5.4",
